@@ -1,6 +1,6 @@
 public class CountingSortExample {
     public static void main(String[] args) {
-        int[] arr = {4, 2, 2, 8, 3, 3, 1};
+        int[] arr = {0,1,1,1,1,4,4,6,6,7,7,8,8,8,8,8,8,9};
 
         System.out.println("ก่อนเรียง (Counting Sort):");
         printArray(arr);

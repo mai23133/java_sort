@@ -1,6 +1,6 @@
 public class bubble {
     public static void main(String[] args) {
-        int[] arr = {64, 34, 25, 12, 22, 11, 90};
+        int[] arr = {42, 89, 63, 12, 94, 27, 78, 3, 50, 36};
 
         System.out.println("Array ก่อนเรียงลำดับ:");
         printArray(arr);

@@ -1,6 +1,6 @@
 public class SelectionSortExample {
     public static void main(String[] args) {
-        int[] arr = {64, 25, 12, 22, 11};
+        int[] arr = {42, 89, 63, 12, 94, 27, 78, 3, 50, 36};
         
         System.out.println("ก่อนเรียง (Selection Sort):");
         printArray(arr);

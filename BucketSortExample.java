@@ -3,7 +3,7 @@ import java.util.Collections;
 
 public class BucketSortExample {
     public static void main(String[] args) {
-        float[] arr = {0.897f, 0.565f, 0.656f, 0.1234f, 0.665f, 0.3434f};
+        float[] arr = {0.42f, 0.89f, 0.63f, 0.12f, 0.94f,  0.27f, 0.78f, 0.03f, 0.50f, 0.36f};
 
         System.out.println("ก่อนเรียง (Bucket Sort):");
         printArray(arr);

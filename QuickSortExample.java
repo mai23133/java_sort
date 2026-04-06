@@ -1,6 +1,6 @@
 public class QuickSortExample {
     public static void main(String[] args) {
-        int[] arr = {10, 7, 8, 9, 1, 5};
+        int[] arr = {42, 89, 63, 12, 94, 27, 78, 3, 50, 36};
         int n = arr.length;
 
         System.out.println("ก่อนเรียง (Quick Sort):");

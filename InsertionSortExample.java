@@ -1,6 +1,6 @@
 public class InsertionSortExample {
     public static void main(String[] args) {
-        int[] arr = {12, 11, 13, 5, 6};
+        int[] arr = {42, 89, 63, 12, 94, 27, 78, 3, 50, 36};
 
         System.out.println("ก่อนเรียง (Insertion Sort):");
         printArray(arr);

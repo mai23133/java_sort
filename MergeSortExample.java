@@ -1,6 +1,6 @@
 public class MergeSortExample {
     public static void main(String[] args) {
-        int[] arr = {34, 6, 78, 32, 3, 51, 48, 23, 11, 9, 66, 28, 17};
+        int[] arr = {42, 89, 63, 12, 94, 27, 78, 3, 50, 36};
 
         System.out.println("Array ก่อนเรียงลำดับ (Merge Sort):");
         printArray(arr);
